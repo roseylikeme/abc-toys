@@ -2,7 +2,7 @@
 
 Understand how to use frameworks such as Bootstrap to create a web app for mobile devices and the learn application of Geolocation. 
 
-[Click here to visit ABC Toys](https://roseylikeme.github.io/cnit133/m-hw3/index.html)
+[Click here to visit ABC Toys](https://roseylikeme.github.io/abc-toys/index.html)
 
 ## Learnings and Insights
 
@@ -39,4 +39,17 @@ The next step for this project could be to build out the products page more. For
 - Dec 17, 2025: Fixed anchor links for easier navigation throughout site!
 
 ## Screenshots
-...
+### Home Page
+<img width="1029" height="1235" alt="ABC Toys Home Page" src="https://github.com/user-attachments/assets/e7a5aefc-6885-4086-92ce-58caf6030791" />
+
+### Products Page
+<img width="1029" height="1222" alt="ABC Toys Product Page" src="https://github.com/user-attachments/assets/6570e1ff-1d85-43ec-9eea-80ceb35c6555" />
+
+### Location Page
+<img width="1029" height="1251" alt="image" src="https://github.com/user-attachments/assets/d2332e94-eb20-443e-9b46-1cc5d34fda60" />
+
+
+### Contact Page
+<img width="1029" height="1433" alt="image" src="https://github.com/user-attachments/assets/5d03cb55-adb4-414c-b9d6-4bfa2ffb7bd6" />
+
+
